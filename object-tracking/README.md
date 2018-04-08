@@ -33,5 +33,5 @@ Here we run YOLO on some frames extracted from videos of the [EPFL Mini-drone da
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/bad0.png)
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/bad1.png)
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/bad3.png)
-
+![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/bad7.png)
 
