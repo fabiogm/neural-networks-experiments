@@ -1,0 +1,3 @@
+[submodule "object-tracking/darknet"]
+	path = object-tracking/darknet
+	url = https://github.com/pjreddie/darknet
