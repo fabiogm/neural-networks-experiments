@@ -23,6 +23,8 @@ Here we run YOLO on some frames extracted from videos of the [EPFL Mini-drone da
 
 # Sample detections
 
+Here are a few examples from `detections` directory.
+
 ## Good
 
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/good1.png)
