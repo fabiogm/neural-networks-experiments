@@ -21,7 +21,7 @@ wget https://pjreddie.com/media/files/yolov3.weights
 
 Here we run YOLO on some frames extracted from videos of the [EPFL Mini-drone dataset](https://mmspg.epfl.ch/mini-drone).
 
-# Good detections
+# Sample detections
 
 ## Good
 
