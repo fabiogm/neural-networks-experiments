@@ -30,6 +30,7 @@ Here are a few examples from `detections` directory.
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/good1.png)
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/good2.png)
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/good3.png)
+![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/good6.png)
 
 ## Bad
 ![](https://raw.githubusercontent.com/fabiogm/neural-networks-experiments/master/object-tracking/detections/bad0.png)
