@@ -2,11 +2,11 @@ import os, shutil
 
 # The path to the directory where the original
 # dataset was uncompressed
-original_dataset_dir = '/Users/fchollet/Downloads/kaggle_original_data'
+original_dataset_dir = './data/train'
 
 # The directory where we will
 # store our smaller dataset
-base_dir = '/Users/fchollet/Downloads/cats_and_dogs_small'
+base_dir = './data/cats_and_dogs_small'
 os.mkdir(base_dir)
 
 # Directories for our training,
