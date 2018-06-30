@@ -15,7 +15,7 @@ def build_model():
     model.add(layers.MaxPooling2D((2, 2)))
     model.add(layers.Flatten())
     model.add(layers.Dense(512, activation='relu'))
-    model.add(layers.Dense(1, activation='relu'))
+    model.add(layers.Dense(1, activation='sigmoid'))
 
     model.compile(loss='binary_crossentropy', optimizer=optimizers.RMSprop(lr=1e-4),
             metrics=['acc'])
