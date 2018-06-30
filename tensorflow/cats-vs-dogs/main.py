@@ -35,7 +35,7 @@ def train_model(train_dir, validation_dir, epochs=25):
             batch_size=20, class_mode='binary')
 
     history = model.fit_generator(train_generator, steps_per_epoch=100, epochs=epochs,
-            validation_data = validation_data=validation_generator, validation_steps=50)
+            validation_data=validation_generator, validation_steps=50)
 
     model.save('cats_and_dogs_model.h5')
 
